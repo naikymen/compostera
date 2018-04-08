@@ -15,6 +15,16 @@ int output_value ;
 
 int smokeA0 = A5;
 
+// PPM
+float mq2_slope = -1.511508654;
+float mq2_intercept = 4.331343678;
+float mq2_V0 = 4.90974609375;
+float mq2_R0 = 33.6625714285715;
+float mq2_RL = 2.47;
+float Vref = 5.27;
+int bitsADC = 10;
+
+
 void setup() {
   Serial.begin(9600);
   
@@ -60,15 +70,27 @@ void loop() {
   
   // Gas sensor
   int mq2Sensor = analogRead(smokeA0);
-  float voltaje = mq2Sensor * (5.0 / 1023.0); //Convertimos la lectura en un valor de voltaje
-  Serial.print("MQ2 Gas Signal: ");
+  Serial.print("MQ2 Gas ADC Signal: ");
   Serial.println(mq2Sensor);
-  Serial.print("MQ2 Gas Voltage Signal: ");
-  Serial.println(voltaje);
+  float mq2_Vs = (Vref - ((mq2Sensor * Vref) / pow(2, bitsADC))) ;
+  float mq2_Rs = (mq2_RL * (mq2_Vs / (Vref - mq2_Vs)));
+  float rs_ro = (mq2_Rs / mq2_R0);
+  float log10ppm = ((mq2_slope * rs_ro) + mq2_intercept);
+  float ppm = pow(10, log10ppm);
+  Serial.print("MQ2 CH4 PPMs: ");
+  Serial.print(ppm);
+  Serial.println(" ppm");
+  
+  // 2D array
+  //byte my2dArray[2][3]={
+  //  {99,2,3},
+  //  {2,3,4}
+  //};
+  //Serial.print(my2dArray[0][0]);
   
   // Ground mositure
   output_value= analogRead(sensor_pin);
-  Serial.print("Moisture value: ");
-  Serial.println(output_value);
+  Serial.print("Solid moisture EC (% of max): ");
+  Serial.println(output_value/1023);
   Serial.println("------------------------------------");
 }
