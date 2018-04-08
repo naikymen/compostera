@@ -1,1 +1,1 @@
-compostera
+Sensores para monitorear compostaje
