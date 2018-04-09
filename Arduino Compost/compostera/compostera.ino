@@ -90,7 +90,7 @@ void loop() {
   
   // Ground mositure
   output_value= analogRead(sensor_pin);
-  Serial.print("Solid moisture EC (% of max): ");
-  Serial.println(output_value/1023);
+  Serial.print("Solid moisture EC (ADC): ");
+  Serial.println(output_value);
   Serial.println("------------------------------------");
 }
