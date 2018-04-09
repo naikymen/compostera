@@ -18,8 +18,8 @@ int smokeA0 = A5;
 // PPM
 float mq2_slope = -1.511508654;
 float mq2_intercept = 4.331343678;
-float mq2_V0 = 4.90974609375;
-float mq2_R0 = 33.6625714285715;
+float mq2_V0 = 5.131044921875;
+float mq2_R0 = 91.2070370370371;
 float mq2_RL = 2.47;
 float Vref = 5.27;
 int bitsADC = 10;
@@ -89,8 +89,8 @@ void loop() {
   //Serial.print(my2dArray[0][0]);
   
   // Ground mositure
-  output_value= analogRead(sensor_pin);
-  Serial.print("Solid moisture EC (ADC): ");
-  Serial.println(output_value);
+  float output_value= analogRead(sensor_pin);
+  Serial.print("Solid moisture EC (% of max): ");
+  Serial.println(100-((output_value/1024)*100));
   Serial.println("------------------------------------");
 }
