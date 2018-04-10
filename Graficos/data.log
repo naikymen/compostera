@@ -1,47 +1,1167 @@
 /dev/ttyACM0 - ttyACM0
-2.9 MQ2 CH4 PPMs 750.38
-3.5 Solid moisture EC (% of max) 0.49
-4.7 Temperature 25.70
-5.3 Humidity 86.50
-6.4 MQ2 CH4 PPMs 750.38
-7.0 Solid moisture EC (% of max) 0.39
-8.2 Temperature 25.70
-8.8 Humidity 86.50
-10.0 MQ2 CH4 PPMs 750.38
-10.6 Solid moisture EC (% of max) 0.49
-11.7 Temperature 25.70
-12.3 Humidity 86.50
-13.5 MQ2 CH4 PPMs 750.38
-14.1 Solid moisture EC (% of max) 0.49
-15.3 Temperature 25.70
-15.9 Humidity 86.50
-17.1 MQ2 CH4 PPMs 750.38
-17.7 Solid moisture EC (% of max) 0.49
-18.9 Temperature 25.70
-19.5 Humidity 86.50
+0.9	MQ2 CH4 PPMs	750.38
+1.5	Solid moisture EC (% of max)	0.49
+3.9	MQ2 CH4 PPMs	750.38
+4.5	Solid moisture EC (% of max)	0.49
+6.8	MQ2 CH4 PPMs	750.38
+7.4	Solid moisture EC (% of max)	0.49
+8.7	Temperature	25.60
+9.4	Humidity	86.60
+10.6	MQ2 CH4 PPMs	660.44
+11.2	Solid moisture EC (% of max)	0.49
+12.4	Temperature	25.60
+13.0	Humidity	86.60
+14.2	MQ2 CH4 PPMs	750.38
+14.8	Solid moisture EC (% of max)	0.49
+15.9	Temperature	25.60
+16.5	Humidity	86.60
+17.7	MQ2 CH4 PPMs	750.38
+18.3	Solid moisture EC (% of max)	0.49
+19.4	Temperature	25.60
+20.0	Humidity	86.60
+21.2	MQ2 CH4 PPMs	750.38
+21.8	Solid moisture EC (% of max)	0.39
+23.0	Temperature	25.60
+23.6	Humidity	86.70
+24.8	MQ2 CH4 PPMs	750.38
+25.4	Solid moisture EC (% of max)	0.39
+26.7	Temperature	25.60
+27.3	Humidity	86.70
+28.5	MQ2 CH4 PPMs	750.38
+29.1	Solid moisture EC (% of max)	0.49
+30.4	Temperature	25.60
+31.0	Humidity	86.70
+32.2	MQ2 CH4 PPMs	750.38
+32.7	Solid moisture EC (% of max)	0.39
+33.9	Temperature	25.60
+34.5	Humidity	86.70
+35.7	MQ2 CH4 PPMs	750.38
+36.3	Solid moisture EC (% of max)	0.49
+37.5	Temperature	25.60
+38.1	Humidity	86.70
+39.2	MQ2 CH4 PPMs	750.38
+39.9	Solid moisture EC (% of max)	0.49
+41.1	Temperature	25.60
+41.7	Humidity	86.70
+42.8	MQ2 CH4 PPMs	750.38
+43.4	Solid moisture EC (% of max)	0.49
+44.6	Temperature	25.60
+45.2	Humidity	86.70
+46.4	MQ2 CH4 PPMs	750.38
+46.9	Solid moisture EC (% of max)	0.49
+48.1	Temperature	25.60
+48.7	Humidity	86.70
+50.0	MQ2 CH4 PPMs	750.38
+50.6	Solid moisture EC (% of max)	0.49
+51.8	Temperature	25.60
+52.4	Humidity	86.70
+53.6	MQ2 CH4 PPMs	750.38
+54.2	Solid moisture EC (% of max)	0.49
+55.3	Temperature	25.60
+55.9	Humidity	86.60
+57.1	MQ2 CH4 PPMs	750.38
+57.7	Solid moisture EC (% of max)	0.49
+58.8	Temperature	25.70
+59.4	Humidity	86.70
+60.6	MQ2 CH4 PPMs	750.38
+61.2	Solid moisture EC (% of max)	0.49
+62.4	Temperature	25.70
+63.0	Humidity	86.70
+64.1	MQ2 CH4 PPMs	750.38
+64.7	Solid moisture EC (% of max)	0.39
+65.9	Temperature	25.70
+66.5	Humidity	86.70
+67.7	MQ2 CH4 PPMs	750.38
+68.2	Solid moisture EC (% of max)	0.49
+69.4	Temperature	25.70
+70.0	Humidity	86.60
+71.2	MQ2 CH4 PPMs	750.38
+71.8	Solid moisture EC (% of max)	0.49
+72.9	Temperature	25.70
+73.5	Humidity	86.60
+74.7	MQ2 CH4 PPMs	750.38
+75.3	Solid moisture EC (% of max)	0.49
+76.4	Temperature	25.70
+77.0	Humidity	86.60
+78.2	MQ2 CH4 PPMs	750.38
+78.8	Solid moisture EC (% of max)	0.49
+80.0	Temperature	25.70
+80.6	Humidity	86.60
+81.7	MQ2 CH4 PPMs	845.09
+82.3	Solid moisture EC (% of max)	0.49
+83.5	Temperature	25.70
+84.1	Humidity	86.60
+85.3	MQ2 CH4 PPMs	750.38
+85.9	Solid moisture EC (% of max)	0.49
+87.1	Temperature	25.70
+87.7	Humidity	86.70
+88.8	MQ2 CH4 PPMs	750.38
+89.5	Solid moisture EC (% of max)	0.49
+90.7	Temperature	25.70
+91.3	Humidity	86.70
+92.5	MQ2 CH4 PPMs	750.38
+93.1	Solid moisture EC (% of max)	0.39
+94.3	Temperature	25.70
+94.8	Humidity	86.60
+96.0	MQ2 CH4 PPMs	750.38
+96.6	Solid moisture EC (% of max)	0.49
+97.8	Temperature	25.70
+98.4	Humidity	86.60
+99.6	MQ2 CH4 PPMs	750.38
+100.2	Solid moisture EC (% of max)	0.39
+101.4	Temperature	25.70
+102.0	Humidity	86.60
+103.2	MQ2 CH4 PPMs	750.38
+103.8	Solid moisture EC (% of max)	0.49
+105.0	Temperature	25.70
+105.6	Humidity	86.50
+106.8	MQ2 CH4 PPMs	750.38
+107.4	Solid moisture EC (% of max)	0.49
+108.6	Temperature	25.70
+109.2	Humidity	86.40
+110.4	MQ2 CH4 PPMs	750.38
+111.0	Solid moisture EC (% of max)	0.49
+112.2	Temperature	25.70
+112.8	Humidity	86.40
+114.0	MQ2 CH4 PPMs	750.38
+114.6	Solid moisture EC (% of max)	0.49
+115.8	Temperature	25.70
+116.5	Humidity	86.40
+117.7	MQ2 CH4 PPMs	750.38
+118.3	Solid moisture EC (% of max)	0.49
+119.5	Temperature	25.70
+120.1	Humidity	86.40
+121.3	MQ2 CH4 PPMs	750.38
+121.9	Solid moisture EC (% of max)	0.39
+123.2	Temperature	25.70
+123.8	Humidity	86.30
+125.0	MQ2 CH4 PPMs	750.38
+125.6	Solid moisture EC (% of max)	0.49
+126.8	Temperature	25.70
+127.4	Humidity	86.30
+128.6	MQ2 CH4 PPMs	750.38
+129.3	Solid moisture EC (% of max)	0.49
+130.5	Temperature	25.70
+131.1	Humidity	86.30
+132.3	MQ2 CH4 PPMs	750.38
+132.9	Solid moisture EC (% of max)	0.49
+134.1	Temperature	25.70
+134.7	Humidity	86.20
+136.0	MQ2 CH4 PPMs	750.38
+136.6	Solid moisture EC (% of max)	0.49
+137.8	Temperature	25.70
+138.5	Humidity	86.20
+139.7	MQ2 CH4 PPMs	750.38
+140.3	Solid moisture EC (% of max)	0.49
+141.6	Temperature	25.70
+142.2	Humidity	86.20
+143.5	MQ2 CH4 PPMs	750.38
+144.1	Solid moisture EC (% of max)	0.49
+145.3	Temperature	25.70
+145.9	Humidity	86.20
+147.2	MQ2 CH4 PPMs	750.38
+147.8	Solid moisture EC (% of max)	0.49
+149.0	Temperature	25.70
+149.7	Humidity	86.20
+150.9	MQ2 CH4 PPMs	750.38
+151.5	Solid moisture EC (% of max)	0.49
+152.8	Temperature	25.70
+153.4	Humidity	86.30
+154.6	MQ2 CH4 PPMs	750.38
+155.2	Solid moisture EC (% of max)	0.49
+156.5	Temperature	25.70
+157.1	Humidity	86.30
+158.4	MQ2 CH4 PPMs	750.38
+159.0	Solid moisture EC (% of max)	0.49
+160.2	Temperature	25.70
+160.9	Humidity	86.30
+162.1	MQ2 CH4 PPMs	750.38
+162.7	Solid moisture EC (% of max)	0.39
+164.0	Temperature	25.70
+164.6	Humidity	86.30
+165.8	MQ2 CH4 PPMs	750.38
+166.5	Solid moisture EC (% of max)	0.49
+167.7	Temperature	25.70
+168.3	Humidity	86.20
+169.6	MQ2 CH4 PPMs	750.38
+170.2	Solid moisture EC (% of max)	0.49
+171.4	Temperature	25.70
+172.1	Humidity	86.30
+173.3	MQ2 CH4 PPMs	750.38
+173.9	Solid moisture EC (% of max)	0.49
+175.1	Temperature	25.70
+175.7	Humidity	86.30
+177.0	MQ2 CH4 PPMs	750.38
+177.6	Solid moisture EC (% of max)	0.49
+178.9	Temperature	25.70
+179.5	Humidity	86.30
+180.7	MQ2 CH4 PPMs	750.38
+181.4	Solid moisture EC (% of max)	0.49
+182.6	Temperature	25.70
+183.3	Humidity	86.30
+184.5	MQ2 CH4 PPMs	750.38
+185.1	Solid moisture EC (% of max)	0.49
+186.4	Temperature	25.70
+187.0	Humidity	86.30
+188.3	MQ2 CH4 PPMs	750.38
+188.9	Solid moisture EC (% of max)	0.49
+190.2	Temperature	25.70
+190.8	Humidity	86.30
+192.1	MQ2 CH4 PPMs	750.38
+192.7	Solid moisture EC (% of max)	0.49
+194.0	Temperature	25.70
+194.6	Humidity	86.30
+195.9	MQ2 CH4 PPMs	750.38
+196.5	Solid moisture EC (% of max)	0.49
+197.8	Temperature	25.70
+198.4	Humidity	86.30
+199.7	MQ2 CH4 PPMs	750.38
+200.4	Solid moisture EC (% of max)	0.49
+201.6	Temperature	25.70
+202.3	Humidity	86.30
+203.5	MQ2 CH4 PPMs	750.38
+204.2	Solid moisture EC (% of max)	0.49
+205.4	Temperature	25.70
+206.1	Humidity	86.30
+207.3	MQ2 CH4 PPMs	750.38
+207.9	Solid moisture EC (% of max)	0.49
+209.2	Temperature	25.70
+209.8	Humidity	86.30
+211.1	MQ2 CH4 PPMs	750.38
+211.7	Solid moisture EC (% of max)	0.39
+213.0	Temperature	25.70
+213.6	Humidity	86.30
+214.9	MQ2 CH4 PPMs	750.38
+215.6	Solid moisture EC (% of max)	0.49
+216.8	Temperature	25.70
+217.5	Humidity	86.20
+218.7	MQ2 CH4 PPMs	750.38
+219.4	Solid moisture EC (% of max)	0.39
+220.6	Temperature	25.70
+221.2	Humidity	86.20
+222.5	MQ2 CH4 PPMs	750.38
+223.1	Solid moisture EC (% of max)	0.39
+224.4	Temperature	25.70
+225.0	Humidity	86.20
+226.3	MQ2 CH4 PPMs	750.38
+226.9	Solid moisture EC (% of max)	0.39
+228.2	Temperature	25.70
+228.9	Humidity	86.20
+230.1	MQ2 CH4 PPMs	750.38
+230.8	Solid moisture EC (% of max)	0.49
+232.1	Temperature	25.70
+232.7	Humidity	86.20
+233.9	MQ2 CH4 PPMs	750.38
+234.6	Solid moisture EC (% of max)	0.39
+235.9	Temperature	25.70
+236.5	Humidity	86.20
+237.8	MQ2 CH4 PPMs	750.38
+238.4	Solid moisture EC (% of max)	0.49
+239.7	Temperature	25.70
+240.3	Humidity	86.20
+241.6	MQ2 CH4 PPMs	750.38
+242.2	Solid moisture EC (% of max)	0.39
+244.7	MQ2 CH4 PPMs	660.44
+245.4	Solid moisture EC (% of max)	0.39
+247.9	MQ2 CH4 PPMs	660.44
+248.6	Solid moisture EC (% of max)	0.39
+251.2	MQ2 CH4 PPMs	660.44
+251.8	Solid moisture EC (% of max)	0.39
+253.1	Temperature	25.60
+253.7	Humidity	86.30
+255.0	MQ2 CH4 PPMs	750.38
+255.6	Solid moisture EC (% of max)	0.49
+256.9	Temperature	25.60
+257.5	Humidity	86.30
+258.8	MQ2 CH4 PPMs	660.44
+259.5	Solid moisture EC (% of max)	0.49
+260.8	Temperature	25.60
+261.4	Humidity	86.20
+262.7	MQ2 CH4 PPMs	750.38
+263.4	Solid moisture EC (% of max)	0.49
+264.7	Temperature	25.60
+265.3	Humidity	86.20
+266.6	MQ2 CH4 PPMs	750.38
+267.3	Solid moisture EC (% of max)	0.49
+268.6	Temperature	25.60
+269.2	Humidity	86.20
+270.5	MQ2 CH4 PPMs	750.38
+271.2	Solid moisture EC (% of max)	0.49
+272.5	Temperature	25.60
+273.1	Humidity	86.30
+274.4	MQ2 CH4 PPMs	750.38
+275.0	Solid moisture EC (% of max)	0.49
+276.3	Temperature	25.60
+276.9	Humidity	86.30
+278.2	MQ2 CH4 PPMs	750.38
+278.9	Solid moisture EC (% of max)	0.49
+280.2	Temperature	25.60
+280.8	Humidity	86.30
+282.1	MQ2 CH4 PPMs	750.38
+282.8	Solid moisture EC (% of max)	0.49
+284.1	Temperature	25.60
+284.7	Humidity	86.30
+286.0	MQ2 CH4 PPMs	750.38
+286.7	Solid moisture EC (% of max)	0.49
+288.0	Temperature	25.60
+288.6	Humidity	86.40
+289.9	MQ2 CH4 PPMs	750.38
+290.6	Solid moisture EC (% of max)	0.49
+291.9	Temperature	25.60
+292.5	Humidity	86.40
+293.8	MQ2 CH4 PPMs	750.38
+294.5	Solid moisture EC (% of max)	0.49
+295.8	Temperature	25.60
+296.4	Humidity	86.40
+297.8	MQ2 CH4 PPMs	750.38
+298.4	Solid moisture EC (% of max)	0.49
+299.7	Temperature	25.60
+300.4	Humidity	86.40
+301.7	MQ2 CH4 PPMs	660.44
+302.3	Solid moisture EC (% of max)	0.49
+303.6	Temperature	25.50
+304.3	Humidity	86.30
+305.6	MQ2 CH4 PPMs	660.44
+306.2	Solid moisture EC (% of max)	0.49
+307.5	Temperature	25.60
+308.2	Humidity	86.40
+309.5	MQ2 CH4 PPMs	750.38
+310.1	Solid moisture EC (% of max)	0.49
+311.4	Temperature	25.60
+312.1	Humidity	86.40
+313.4	MQ2 CH4 PPMs	660.44
+314.0	Solid moisture EC (% of max)	0.49
+315.3	Temperature	25.60
+316.0	Humidity	86.40
+317.3	MQ2 CH4 PPMs	660.44
+317.9	Solid moisture EC (% of max)	0.49
+319.2	Temperature	25.50
+319.8	Humidity	86.40
+321.1	MQ2 CH4 PPMs	750.38
+321.8	Solid moisture EC (% of max)	0.49
+323.1	Temperature	25.50
+323.8	Humidity	86.40
+325.1	MQ2 CH4 PPMs	750.38
+325.7	Solid moisture EC (% of max)	0.49
+327.0	Temperature	25.50
+327.7	Humidity	86.40
+328.9	MQ2 CH4 PPMs	750.38
+329.6	Solid moisture EC (% of max)	0.49
+330.9	Temperature	25.50
+331.5	Humidity	86.40
+332.8	MQ2 CH4 PPMs	750.38
+333.4	Solid moisture EC (% of max)	0.49
+334.8	Temperature	25.50
+335.4	Humidity	86.40
+336.7	MQ2 CH4 PPMs	750.38
+337.4	Solid moisture EC (% of max)	0.49
+338.7	Temperature	25.50
+339.3	Humidity	86.40
+340.6	MQ2 CH4 PPMs	750.38
+341.3	Solid moisture EC (% of max)	0.49
+342.6	Temperature	25.50
+343.2	Humidity	86.40
+344.5	MQ2 CH4 PPMs	750.38
+345.2	Solid moisture EC (% of max)	0.49
+346.5	Temperature	25.50
+347.2	Humidity	86.50
+348.5	MQ2 CH4 PPMs	750.38
+349.2	Solid moisture EC (% of max)	0.49
+350.5	Temperature	25.50
+351.1	Humidity	86.50
+352.6	MQ2 CH4 PPMs	750.38
+353.2	Solid moisture EC (% of max)	0.49
+354.5	Temperature	25.50
+355.2	Humidity	86.50
+356.5	MQ2 CH4 PPMs	750.38
+357.1	Solid moisture EC (% of max)	0.49
+358.4	Temperature	25.50
+359.0	Humidity	86.50
+360.3	MQ2 CH4 PPMs	750.38
+360.9	Solid moisture EC (% of max)	0.49
+362.2	Temperature	25.60
+362.9	Humidity	86.60
+364.1	MQ2 CH4 PPMs	750.38
+364.8	Solid moisture EC (% of max)	0.49
+366.1	Temperature	25.60
+366.7	Humidity	86.60
+368.0	MQ2 CH4 PPMs	750.38
+368.6	Solid moisture EC (% of max)	0.39
+369.9	Temperature	25.60
+370.6	Humidity	86.60
+371.9	MQ2 CH4 PPMs	660.44
+372.5	Solid moisture EC (% of max)	0.39
+373.8	Temperature	25.50
+374.5	Humidity	86.50
+375.8	MQ2 CH4 PPMs	660.44
+376.4	Solid moisture EC (% of max)	0.49
+377.7	Temperature	25.60
+378.3	Humidity	86.70
+379.6	MQ2 CH4 PPMs	750.38
+380.3	Solid moisture EC (% of max)	0.49
+381.6	Temperature	25.50
+382.2	Humidity	86.60
+383.5	MQ2 CH4 PPMs	750.38
+384.2	Solid moisture EC (% of max)	0.49
+385.4	Temperature	25.60
+386.1	Humidity	86.70
+387.4	MQ2 CH4 PPMs	750.38
+388.1	Solid moisture EC (% of max)	0.49
+389.4	Temperature	25.60
+390.0	Humidity	86.80
+391.3	MQ2 CH4 PPMs	750.38
+392.0	Solid moisture EC (% of max)	0.49
+393.3	Temperature	25.50
+394.0	Humidity	86.70
+395.3	MQ2 CH4 PPMs	750.38
+395.9	Solid moisture EC (% of max)	0.49
+397.2	Temperature	25.50
+397.9	Humidity	86.60
+399.2	MQ2 CH4 PPMs	750.38
+399.8	Solid moisture EC (% of max)	0.49
+401.1	Temperature	25.50
+401.8	Humidity	86.70
+403.0	MQ2 CH4 PPMs	660.44
+403.7	Solid moisture EC (% of max)	0.39
+405.0	Temperature	25.60
+405.6	Humidity	86.70
+406.9	MQ2 CH4 PPMs	750.38
+407.5	Solid moisture EC (% of max)	0.39
+408.8	Temperature	25.50
+409.5	Humidity	86.60
+410.7	MQ2 CH4 PPMs	750.38
+411.4	Solid moisture EC (% of max)	0.39
+412.7	Temperature	25.50
+413.3	Humidity	86.60
+414.6	MQ2 CH4 PPMs	750.38
+415.2	Solid moisture EC (% of max)	0.39
+416.5	Temperature	25.50
+417.1	Humidity	86.60
+418.4	MQ2 CH4 PPMs	750.38
+419.1	Solid moisture EC (% of max)	0.39
+420.3	Temperature	25.50
+421.0	Humidity	86.60
+422.3	MQ2 CH4 PPMs	750.38
+422.9	Solid moisture EC (% of max)	0.39
+424.2	Temperature	25.50
+424.8	Humidity	86.60
+426.1	MQ2 CH4 PPMs	660.44
+426.8	Solid moisture EC (% of max)	0.49
+428.1	Temperature	25.60
+428.7	Humidity	86.80
+430.0	MQ2 CH4 PPMs	750.38
+430.7	Solid moisture EC (% of max)	0.49
+432.0	Temperature	25.50
+432.7	Humidity	86.70
+434.0	MQ2 CH4 PPMs	660.44
+434.7	Solid moisture EC (% of max)	0.49
+436.0	Temperature	25.50
+436.7	Humidity	86.70
+438.0	MQ2 CH4 PPMs	750.38
+438.7	Solid moisture EC (% of max)	0.49
+440.1	Temperature	25.50
+440.7	Humidity	86.70
+442.1	MQ2 CH4 PPMs	750.38
+442.8	Solid moisture EC (% of max)	0.49
+444.1	Temperature	25.50
+444.8	Humidity	86.60
+446.1	MQ2 CH4 PPMs	750.38
+446.8	Solid moisture EC (% of max)	0.49
+448.1	Temperature	25.50
+448.8	Humidity	86.60
+450.2	MQ2 CH4 PPMs	660.44
+450.9	Solid moisture EC (% of max)	0.49
+452.2	Temperature	25.60
+452.9	Humidity	86.70
+454.2	MQ2 CH4 PPMs	750.38
+454.9	Solid moisture EC (% of max)	0.39
+457.6	MQ2 CH4 PPMs	660.44
+458.3	Solid moisture EC (% of max)	0.49
+461.0	MQ2 CH4 PPMs	660.44
+461.7	Solid moisture EC (% of max)	0.49
+463.0	Temperature	25.40
+463.7	Humidity	86.80
+465.1	MQ2 CH4 PPMs	660.44
+465.8	Solid moisture EC (% of max)	0.49
+467.1	Temperature	25.40
+467.8	Humidity	86.80
+469.1	MQ2 CH4 PPMs	660.44
+469.8	Solid moisture EC (% of max)	0.49
+471.2	Temperature	25.50
+471.9	Humidity	86.90
+473.2	MQ2 CH4 PPMs	660.44
+473.9	Solid moisture EC (% of max)	0.49
+475.3	Temperature	25.50
+476.0	Humidity	86.90
+477.3	MQ2 CH4 PPMs	660.44
+478.0	Solid moisture EC (% of max)	0.49
+479.4	Temperature	25.50
+480.0	Humidity	86.90
+481.4	MQ2 CH4 PPMs	660.44
+482.1	Solid moisture EC (% of max)	0.49
+483.5	Temperature	25.50
+484.1	Humidity	86.90
+485.5	MQ2 CH4 PPMs	660.44
+486.2	Solid moisture EC (% of max)	0.49
+487.6	Temperature	25.40
+488.2	Humidity	86.90
+489.6	MQ2 CH4 PPMs	750.38
+490.3	Solid moisture EC (% of max)	0.49
+491.6	Temperature	25.50
+492.3	Humidity	87.00
+493.7	MQ2 CH4 PPMs	660.44
+494.4	Solid moisture EC (% of max)	0.49
+495.7	Temperature	25.40
+496.4	Humidity	86.90
+497.8	MQ2 CH4 PPMs	750.38
+498.5	Solid moisture EC (% of max)	0.49
+499.8	Temperature	25.50
+500.5	Humidity	87.00
+501.9	MQ2 CH4 PPMs	660.44
+502.6	Solid moisture EC (% of max)	0.49
+504.0	Temperature	25.50
+504.7	Humidity	87.00
+506.0	MQ2 CH4 PPMs	750.38
+506.7	Solid moisture EC (% of max)	0.49
+508.1	Temperature	25.40
+508.8	Humidity	87.00
+510.1	MQ2 CH4 PPMs	660.44
+510.8	Solid moisture EC (% of max)	0.49
+512.2	Temperature	25.50
+512.9	Humidity	87.10
+514.3	MQ2 CH4 PPMs	660.44
+515.0	Solid moisture EC (% of max)	0.49
+516.3	Temperature	25.40
+517.0	Humidity	87.10
+518.4	MQ2 CH4 PPMs	750.38
+519.1	Solid moisture EC (% of max)	0.49
+520.5	Temperature	25.50
+521.2	Humidity	87.10
+522.6	MQ2 CH4 PPMs	660.44
+523.2	Solid moisture EC (% of max)	0.49
+524.6	Temperature	25.40
+525.3	Humidity	87.10
+526.6	MQ2 CH4 PPMs	750.38
+527.3	Solid moisture EC (% of max)	0.39
+528.7	Temperature	25.40
+529.4	Humidity	87.10
+530.8	MQ2 CH4 PPMs	660.44
+531.5	Solid moisture EC (% of max)	0.39
+532.9	Temperature	25.50
+533.5	Humidity	87.10
+534.9	MQ2 CH4 PPMs	660.44
+535.6	Solid moisture EC (% of max)	0.39
+537.0	Temperature	25.50
+537.7	Humidity	87.10
+539.1	MQ2 CH4 PPMs	660.44
+539.8	Solid moisture EC (% of max)	0.49
+541.2	Temperature	25.50
+541.9	Humidity	87.10
+543.3	MQ2 CH4 PPMs	660.44
+544.0	Solid moisture EC (% of max)	0.49
+545.4	Temperature	25.50
+546.1	Humidity	87.00
+547.5	MQ2 CH4 PPMs	660.44
+548.1	Solid moisture EC (% of max)	0.39
+549.5	Temperature	25.50
+550.2	Humidity	87.00
+551.6	MQ2 CH4 PPMs	750.38
+552.3	Solid moisture EC (% of max)	0.49
+553.7	Temperature	25.50
+554.4	Humidity	87.00
+555.8	MQ2 CH4 PPMs	660.44
+556.5	Solid moisture EC (% of max)	0.49
+557.9	Temperature	25.50
+558.6	Humidity	87.00
+560.0	MQ2 CH4 PPMs	660.44
+560.7	Solid moisture EC (% of max)	0.49
+562.1	Temperature	25.50
+562.8	Humidity	87.00
+564.2	MQ2 CH4 PPMs	660.44
+564.9	Solid moisture EC (% of max)	0.49
+566.3	Temperature	25.40
+567.0	Humidity	86.90
+568.4	MQ2 CH4 PPMs	660.44
+569.1	Solid moisture EC (% of max)	0.49
+570.6	Temperature	25.50
+571.3	Humidity	87.00
+572.7	MQ2 CH4 PPMs	750.38
+573.4	Solid moisture EC (% of max)	0.49
+574.8	Temperature	25.50
+575.5	Humidity	87.00
+576.9	MQ2 CH4 PPMs	660.44
+577.5	Solid moisture EC (% of max)	0.49
+578.9	Temperature	25.50
+579.6	Humidity	87.00
+580.9	MQ2 CH4 PPMs	750.38
+581.6	Solid moisture EC (% of max)	0.49
+582.9	Temperature	25.50
+583.6	Humidity	87.10
+585.0	MQ2 CH4 PPMs	660.44
+585.6	Solid moisture EC (% of max)	0.49
+587.0	Temperature	25.50
+587.7	Humidity	87.10
+589.0	MQ2 CH4 PPMs	660.44
+589.7	Solid moisture EC (% of max)	0.49
+591.1	Temperature	25.40
+591.7	Humidity	87.10
+593.1	MQ2 CH4 PPMs	660.44
+593.8	Solid moisture EC (% of max)	0.49
+595.1	Temperature	25.50
+595.8	Humidity	87.20
+597.2	MQ2 CH4 PPMs	660.44
+597.9	Solid moisture EC (% of max)	0.49
+599.2	Temperature	25.40
+599.9	Humidity	87.10
+601.3	MQ2 CH4 PPMs	750.38
+602.0	Solid moisture EC (% of max)	0.49
+603.3	Temperature	25.50
+604.0	Humidity	87.20
+605.4	MQ2 CH4 PPMs	660.44
+606.1	Solid moisture EC (% of max)	0.49
+607.4	Temperature	25.50
+608.1	Humidity	87.20
+609.5	MQ2 CH4 PPMs	750.38
+610.1	Solid moisture EC (% of max)	0.39
+611.5	Temperature	25.50
+612.2	Humidity	87.30
+613.6	MQ2 CH4 PPMs	660.44
+614.2	Solid moisture EC (% of max)	0.39
+615.6	Temperature	25.50
+616.3	Humidity	87.30
+617.6	MQ2 CH4 PPMs	660.44
+618.3	Solid moisture EC (% of max)	0.39
+619.7	Temperature	25.50
+620.4	Humidity	87.30
+621.7	MQ2 CH4 PPMs	660.44
+622.4	Solid moisture EC (% of max)	0.49
+623.8	Temperature	25.50
+624.5	Humidity	87.30
+625.8	MQ2 CH4 PPMs	660.44
+626.5	Solid moisture EC (% of max)	0.49
+627.9	Temperature	25.50
+628.6	Humidity	87.30
+629.9	MQ2 CH4 PPMs	750.38
+630.6	Solid moisture EC (% of max)	0.49
+632.0	Temperature	25.50
+632.7	Humidity	87.40
+634.1	MQ2 CH4 PPMs	660.44
+634.8	Solid moisture EC (% of max)	0.49
+636.1	Temperature	25.50
+636.8	Humidity	87.40
+638.2	MQ2 CH4 PPMs	750.38
+638.9	Solid moisture EC (% of max)	0.49
+640.2	Temperature	25.50
+640.9	Humidity	87.30
+642.3	MQ2 CH4 PPMs	660.44
+643.0	Solid moisture EC (% of max)	0.49
+644.3	Temperature	25.50
+645.0	Humidity	87.30
+646.6	MQ2 CH4 PPMs	750.38
+647.3	Solid moisture EC (% of max)	0.49
+648.6	Temperature	25.50
+649.3	Humidity	87.40
+651.0	MQ2 CH4 PPMs	660.44
+651.7	Solid moisture EC (% of max)	0.49
+653.1	Temperature	25.50
+653.7	Humidity	87.40
+655.1	MQ2 CH4 PPMs	660.44
+655.7	Solid moisture EC (% of max)	0.39
+657.1	Temperature	25.50
+657.8	Humidity	87.40
+659.1	MQ2 CH4 PPMs	750.38
+659.8	Solid moisture EC (% of max)	0.49
+661.2	Temperature	25.50
+661.9	Humidity	87.40
+663.2	MQ2 CH4 PPMs	750.38
+663.9	Solid moisture EC (% of max)	0.49
+665.3	Temperature	%\r\n'
 /dev/ttyACM0 - ttyACM0
-2.0	MQ2 CH4 PPMs	750.38
-2.6	Solid moisture EC (% of max)	0.39
-3.8	Temperature	25.70
-4.4	Humidity	86.80
-5.6	MQ2 CH4 PPMs	750.38
-6.1	Solid moisture EC (% of max)	0.39
-7.3	Temperature	25.70
-7.9	Humidity	86.70
-9.1	MQ2 CH4 PPMs	660.44
+0.9	MQ2 CH4 PPMs	146.61
+1.5	Solid moisture EC (% of max)	0.49
+2.6	Temperature	24.50
+4.3	Humidity	83.40
+5.6	MQ2 CH4 PPMs	146.61
+6.3	Solid moisture EC (% of max)	0.39
+7.4	Temperature	24.50
+8.0	Humidity	83.40
+9.1	MQ2 CH4 PPMs	189.01
 9.7	Solid moisture EC (% of max)	0.39
-10.9	Temperature	25.60
-11.5	Humidity	86.60
-12.7	MQ2 CH4 PPMs	750.38
-13.2	Solid moisture EC (% of max)	0.39
-14.4	Temperature	25.60
-15.0	Humidity	86.60
-16.2	MQ2 CH4 PPMs	750.38
-16.8	Solid moisture EC (% of max)	0.39
-17.9	Temperature	25.60
-18.5	Humidity	86.60
-19.7	MQ2 CH4 PPMs	750.38
-20.4	Solid moisture EC (% of max)	0.49
-21.7	Temperature	25.60
-22.3	Humidity	86.60
-23.6	MQ2 CH4 PPMs	750.38
+10.9	Temperature	24.50
+11.5	Humidity	83.40
+12.7	MQ2 CH4 PPMs	146.61
+13.3	Solid moisture EC (% of max)	0.49
+14.4	Temperature	24.50
+15.0	Humidity	83.40
+16.2	MQ2 CH4 PPMs	146.61
+16.8	Solid moisture EC (% of max)	0.49
+17.9	Temperature	24.50
+18.5	Humidity	83.40
+19.7	MQ2 CH4 PPMs	146.61
+20.2	Solid moisture EC (% of max)	0.49
+21.4	Temperature	24.50
+22.0	Humidity	83.40
+23.1	MQ2 CH4 PPMs	146.61
+23.7	Solid moisture EC (% of max)	0.49
+24.9	Temperature	24.50
+25.5	Humidity	83.40
+26.6	MQ2 CH4 PPMs	146.61
+27.2	Solid moisture EC (% of max)	0.49
+28.4	Temperature	24.50
+29.0	Humidity	83.40
+30.1	MQ2 CH4 PPMs	146.61
+30.7	Solid moisture EC (% of max)	0.49
+31.9	Temperature	24.50
+32.5	Humidity	83.40
+33.6	MQ2 CH4 PPMs	146.61
+34.2	Solid moisture EC (% of max)	0.49
+35.3	Temperature	24.50
+35.9	Humidity	83.40
+37.1	MQ2 CH4 PPMs	146.61
+37.7	Solid moisture EC (% of max)	0.49
+38.8	Temperature	24.50
+39.4	Humidity	83.40
+40.6	MQ2 CH4 PPMs	110.56
+41.2	Solid moisture EC (% of max)	0.49
+42.3	Temperature	24.50
+42.9	Humidity	83.40
+44.1	MQ2 CH4 PPMs	146.61
+44.7	Solid moisture EC (% of max)	0.49
+45.9	Temperature	24.40
+46.5	Humidity	83.30
+47.6	MQ2 CH4 PPMs	146.61
+48.2	Solid moisture EC (% of max)	0.49
+49.4	Temperature	24.50
+50.0	Humidity	83.40
+51.1	MQ2 CH4 PPMs	146.61
+51.7	Solid moisture EC (% of max)	0.39
+52.9	Temperature	24.50
+53.5	Humidity	83.40
+54.7	MQ2 CH4 PPMs	146.61
+55.3	Solid moisture EC (% of max)	0.49
+56.4	Temperature	24.50
+57.0	Humidity	83.30
+58.2	MQ2 CH4 PPMs	146.61
+58.8	Solid moisture EC (% of max)	0.49
+60.0	Temperature	24.50
+60.6	Humidity	83.40
+61.8	MQ2 CH4 PPMs	146.61
+62.4	Solid moisture EC (% of max)	0.39
+63.6	Temperature	24.50
+64.2	Humidity	83.30
+65.4	MQ2 CH4 PPMs	146.61
+66.0	Solid moisture EC (% of max)	0.39
+67.1	Temperature	24.50
+67.7	Humidity	83.30
+68.9	MQ2 CH4 PPMs	146.61
+69.5	Solid moisture EC (% of max)	0.39
+70.7	Temperature	24.50
+71.3	Humidity	83.30
+72.5	MQ2 CH4 PPMs	146.61
+73.0	Solid moisture EC (% of max)	0.49
+74.2	Temperature	24.50
+74.8	Humidity	83.30
+76.0	MQ2 CH4 PPMs	146.61
+76.6	Solid moisture EC (% of max)	0.39
+77.8	Temperature	24.50
+78.3	Humidity	83.20
+79.5	MQ2 CH4 PPMs	146.61
+80.1	Solid moisture EC (% of max)	0.39
+81.3	Temperature	24.50
+81.9	Humidity	83.20
+83.1	MQ2 CH4 PPMs	146.61
+83.6	Solid moisture EC (% of max)	0.39
+84.9	Temperature	24.50
+85.6	Humidity	83.20
+86.8	MQ2 CH4 PPMs	189.01
+87.4	Solid moisture EC (% of max)	0.39
+88.5	Temperature	24.50
+89.1	Humidity	83.20
+90.3	MQ2 CH4 PPMs	189.01
+90.9	Solid moisture EC (% of max)	0.39
+92.1	Temperature	24.50
+92.7	Humidity	83.10
+93.9	MQ2 CH4 PPMs	146.61
+94.5	Solid moisture EC (% of max)	0.39
+95.7	Temperature	24.50
+96.3	Humidity	83.00
+97.5	MQ2 CH4 PPMs	146.61
+98.1	Solid moisture EC (% of max)	0.49
+99.3	Temperature	24.50
+99.9	Humidity	83.00
+101.0	MQ2 CH4 PPMs	146.61
+101.6	Solid moisture EC (% of max)	0.49
+102.8	Temperature	24.50
+103.4	Humidity	83.00
+104.6	MQ2 CH4 PPMs	146.61
+105.2	Solid moisture EC (% of max)	0.49
+106.4	Temperature	24.50
+107.0	Humidity	83.00
+108.2	MQ2 CH4 PPMs	189.01
+108.8	Solid moisture EC (% of max)	0.49
+110.0	Temperature	24.50
+110.6	Humidity	83.00
+111.7	MQ2 CH4 PPMs	146.61
+112.3	Solid moisture EC (% of max)	0.49
+113.5	Temperature	24.50
+114.1	Humidity	83.00
+115.3	MQ2 CH4 PPMs	146.61
+115.9	Solid moisture EC (% of max)	0.49
+117.1	Temperature	24.50
+117.7	Humidity	83.10
+118.9	MQ2 CH4 PPMs	110.56
+119.5	Solid moisture EC (% of max)	0.49
+120.7	Temperature	24.50
+121.3	Humidity	83.10
+122.5	MQ2 CH4 PPMs	146.61
+123.1	Solid moisture EC (% of max)	0.49
+124.3	Temperature	24.50
+124.9	Humidity	83.10
+126.1	MQ2 CH4 PPMs	146.61
+126.7	Solid moisture EC (% of max)	0.49
+127.9	Temperature	24.50
+128.5	Humidity	83.00
+129.7	MQ2 CH4 PPMs	146.61
+130.3	Solid moisture EC (% of max)	0.49
+131.5	Temperature	24.50
+132.1	Humidity	83.10
+133.3	MQ2 CH4 PPMs	146.61
+133.9	Solid moisture EC (% of max)	0.49
+135.1	Temperature	24.50
+135.7	Humidity	83.10
+136.9	MQ2 CH4 PPMs	110.56
+137.5	Solid moisture EC (% of max)	0.49
+138.7	Temperature	24.50
+139.3	Humidity	83.10
+140.6	MQ2 CH4 PPMs	146.61
+141.2	Solid moisture EC (% of max)	0.49
+142.4	Temperature	24.50
+143.0	Humidity	83.10
+144.2	MQ2 CH4 PPMs	146.61
+144.8	Solid moisture EC (% of max)	0.49
+146.0	Temperature	24.50
+146.6	Humidity	83.10
+147.8	MQ2 CH4 PPMs	146.61
+148.4	Solid moisture EC (% of max)	0.49
+149.6	Temperature	24.50
+150.2	Humidity	83.20
+151.4	MQ2 CH4 PPMs	146.61
+152.0	Solid moisture EC (% of max)	0.49
+153.3	Temperature	24.50
+153.9	Humidity	83.20
+155.1	MQ2 CH4 PPMs	146.61
+155.7	Solid moisture EC (% of max)	0.49
+156.9	Temperature	24.50
+157.5	Humidity	83.20
+158.7	MQ2 CH4 PPMs	146.61
+159.3	Solid moisture EC (% of max)	0.49
+160.5	Temperature	24.50
+161.1	Humidity	83.20
+162.3	MQ2 CH4 PPMs	146.61
+162.9	Solid moisture EC (% of max)	0.49
+164.2	Temperature	24.60
+164.8	Humidity	83.20
+166.0	MQ2 CH4 PPMs	146.61
+166.6	Solid moisture EC (% of max)	0.39
+167.8	Temperature	24.50
+168.4	Humidity	83.10
+169.6	MQ2 CH4 PPMs	146.61
+170.2	Solid moisture EC (% of max)	0.39
+171.5	Temperature	24.60
+172.1	Humidity	83.20
+173.3	MQ2 CH4 PPMs	146.61
+173.9	Solid moisture EC (% of max)	0.39
+175.1	Temperature	24.50
+175.7	Humidity	83.10
+176.9	MQ2 CH4 PPMs	146.61
+177.5	Solid moisture EC (% of max)	0.39
+178.8	Temperature	24.60
+179.4	Humidity	83.20
+180.6	MQ2 CH4 PPMs	146.61
+181.2	Solid moisture EC (% of max)	0.39
+182.4	Temperature	24.60
+183.0	Humidity	83.20
+184.3	MQ2 CH4 PPMs	146.61
+184.9	Solid moisture EC (% of max)	0.39
+186.1	Temperature	24.60
+186.7	Humidity	83.20
+188.0	MQ2 CH4 PPMs	146.61
+188.6	Solid moisture EC (% of max)	0.39
+189.8	Temperature	24.50
+190.4	Humidity	83.10
+191.6	MQ2 CH4 PPMs	189.01
+192.2	Solid moisture EC (% of max)	0.39
+193.5	Temperature	24.60
+194.1	Humidity	83.30
+195.3	MQ2 CH4 PPMs	146.61
+195.9	Solid moisture EC (% of max)	0.39
+197.1	Temperature	24.60
+197.8	Humidity	83.30
+199.0	MQ2 CH4 PPMs	146.61
+199.6	Solid moisture EC (% of max)	0.49
+200.8	Temperature	24.60
+201.5	Humidity	83.20
+202.7	MQ2 CH4 PPMs	146.61
+203.3	Solid moisture EC (% of max)	0.39
+204.5	Temperature	24.60
+205.1	Humidity	83.20
+206.4	MQ2 CH4 PPMs	146.61
+207.0	Solid moisture EC (% of max)	0.39
+208.2	Temperature	24.50
+208.8	Humidity	83.10
+210.1	MQ2 CH4 PPMs	146.61
+210.7	Solid moisture EC (% of max)	0.39
+211.9	Temperature	24.60
+212.5	Humidity	83.20
+213.8	MQ2 CH4 PPMs	146.61
+214.4	Solid moisture EC (% of max)	0.39
+215.6	Temperature	24.60
+216.2	Humidity	83.20
+217.5	MQ2 CH4 PPMs	189.01
+218.1	Solid moisture EC (% of max)	0.39
+219.3	Temperature	24.60
+219.9	Humidity	83.20
+221.2	MQ2 CH4 PPMs	146.61
+221.8	Solid moisture EC (% of max)	0.49
+223.0	Temperature	24.60
+223.6	Humidity	83.20
+224.9	MQ2 CH4 PPMs	146.61
+225.5	Solid moisture EC (% of max)	0.39
+226.9	Temperature	24.60
+227.5	Humidity	83.20
+228.7	MQ2 CH4 PPMs	146.61
+229.4	Solid moisture EC (% of max)	0.39
+230.6	Temperature	24.50
+231.3	Humidity	83.10
+232.5	MQ2 CH4 PPMs	146.61
+233.1	Solid moisture EC (% of max)	0.49
+234.4	Temperature	24.50
+235.0	Humidity	83.00
+236.3	MQ2 CH4 PPMs	146.61
+236.9	Solid moisture EC (% of max)	0.49
+238.3	Temperature	24.60
+238.9	Humidity	83.20
+240.2	MQ2 CH4 PPMs	146.61
+240.9	Solid moisture EC (% of max)	0.49
+242.1	Temperature	24.60
+242.7	Humidity	83.20
+244.0	MQ2 CH4 PPMs	146.61
+244.7	Solid moisture EC (% of max)	0.49
+246.0	Temperature	24.60
+246.6	Humidity	83.20
+247.9	MQ2 CH4 PPMs	146.61
+248.5	Solid moisture EC (% of max)	0.49
+249.8	Temperature	24.60
+250.4	Humidity	83.20
+251.7	MQ2 CH4 PPMs	146.61
+252.3	Solid moisture EC (% of max)	0.49
+253.6	Temperature	246.61
+254.2	Solid moisture EC (% of max)	0.39
+256.7	MQ2 CH4 PPMs	146.61
+257.3	Solid moisture EC (% of max)	0.39
+258.6	Temperature	24.60
+259.2	Humidity	83.00
+260.5	MQ2 CH4 PPMs	146.61
+261.1	Solid moisture EC (% of max)	0.39
+262.3	Temperature	24.60
+263.0	Humidity	83.10
+264.2	MQ2 CH4 PPMs	146.61
+264.8	Solid moisture EC (% of max)	0.39
+266.1	Temperature	24.60
+266.7	Humidity	83.10
+268.0	MQ2 CH4 PPMs	146.61
+268.6	Solid moisture EC (% of max)	0.49
+269.9	Temperature	24.60
+270.5	Humidity	83.20
+271.7	MQ2 CH4 PPMs	110.56
+272.4	Solid moisture EC (% of max)	0.49
+273.6	Temperature	24.60
+274.3	Humidity	83.20
+275.5	MQ2 CH4 PPMs	110.56
+276.1	Solid moisture EC (% of max)	0.49
+277.5	Temperature	24.60
+278.1	Humidity	83.20
+279.4	MQ2 CH4 PPMs	110.56
+280.0	Solid moisture EC (% of max)	0.49
+281.3	Temperature	24.60
+281.9	Humidity	83.20
+283.1	MQ2 CH4 PPMs	146.61
+283.8	Solid moisture EC (% of max)	0.49
+285.1	Temperature	24.60
+285.7	Humidity	83.10
+286.9	MQ2 CH4 PPMs	146.61
+287.6	Solid moisture EC (% of max)	0.49
+288.8	Temperature	24.60
+289.5	Humidity	83.10
+290.8	MQ2 CH4 PPMs	146.61
+291.4	Solid moisture EC (% of max)	0.39
+292.8	Temperature	24.60
+293.4	Humidity	83.10
+294.7	MQ2 CH4 PPMs	146.61
+295.3	Solid moisture EC (% of max)	0.39
+296.6	Temperature	24.60
+297.2	Humidity	83.10
+298.5	MQ2 CH4 PPMs	146.61
+299.1	Solid moisture EC (% of max)	0.39
+300.3	Temperature	24.60
+301.0	Humidity	83.10
+302.2	MQ2 CH4 PPMs	146.61
+302.9	Solid moisture EC (% of max)	0.49
+304.1	Temperature	24.60
+304.8	Humidity	83.10
+306.0	MQ2 CH4 PPMs	146.61
+306.7	Solid moisture EC (% of max)	0.49
+307.9	Temperature	24.60
+308.6	Humidity	83.10
+309.9	MQ2 CH4 PPMs	146.61
+310.5	Solid moisture EC (% of max)	0.49
+311.8	Temperature	24.60
+312.4	Humidity	83.00
+313.7	MQ2 CH4 PPMs	146.61
+314.3	Solid moisture EC (% of max)	0.39
+315.6	Temperature	24.60
+316.2	Humidity	83.10
+317.5	MQ2 CH4 PPMs	146.61
+318.1	Solid moisture EC (% of max)	0.39
+319.4	Temperature	24.60
+320.1	Humidity	83.30
+321.5	MQ2 CH4 PPMs	146.61
+322.2	Solid moisture EC (% of max)	0.39
+323.5	Temperature	24.60
+324.2	Humidity	83.40
+325.4	MQ2 CH4 PPMs	146.61
+326.1	Solid moisture EC (% of max)	0.49
+327.3	Temperature	24.60
+328.0	Humidity	83.30
+329.3	MQ2 CH4 PPMs	146.61
+329.9	Solid moisture EC (% of max)	0.49
+331.2	Temperature	24.60
+331.8	Humidity	83.20
+333.1	MQ2 CH4 PPMs	146.61
+333.7	Solid moisture EC (% of max)	0.49
+335.0	Temperature	24.60
+335.6	Humidity	83.10
+336.9	MQ2 CH4 PPMs	146.61
+337.6	Solid moisture EC (% of max)	0.49
+338.8	Temperature	24.60
+339.5	Humidity	83.10
+340.8	MQ2 CH4 PPMs	146.61
+341.4	Solid moisture EC (% of max)	0.49
+342.7	Temperature	24.60
+343.3	Humidity	83.10
+344.6	MQ2 CH4 PPMs	146.61
+345.2	Solid moisture EC (% of max)	0.49
+346.5	Temperature	24.60
+347.2	Humidity	83.00
+348.4	MQ2 CH4 PPMs	146.61
+349.1	Solid moisture EC (% of max)	0.49
+350.4	Temperature	24.60
+351.0	Humidity	83.00
+352.3	MQ2 CH4 PPMs	146.61
+352.9	Solid moisture EC (% of max)	0.49
+354.2	Temperature	24.60
+354.8	Humidity	83.10
+356.1	MQ2 CH4 PPMs	189.01
+356.8	Solid moisture EC (% of max)	0.39
+358.0	Temperature	24.60
+358.7	Humidity	83.10
+360.0	MQ2 CH4 PPMs	146.61
+360.6	Solid moisture EC (% of max)	0.39
+361.9	Temperature	24.60
+362.5	Humidity	83.10
+363.8	MQ2 CH4 PPMs	146.61
+364.5	Solid moisture EC (% of max)	0.39
+365.7	Temperature	24.60
+366.4	Humidity	83.10
+367.7	MQ2 CH4 PPMs	146.61
+368.3	Solid moisture EC (% of max)	0.49
+369.6	Temperature	24.60
+370.3	Humidity	83.00
+371.8	MQ2 CH4 PPMs	146.61
+372.4	Solid moisture EC (% of max)	0.49
+373.7	Temperature	24.60
+374.4	Humidity	83.00
+375.6	MQ2 CH4 PPMs	146.61
+376.3	Solid moisture EC (% of max)	0.49
+377.6	Temperature	24.60
+378.2	Humidity	83.00
+379.5	MQ2 CH4 PPMs	146.61
+380.2	Solid moisture EC (% of max)	0.49
+381.5	Temperature	24.60
+382.1	Humidity	83.00
+383.4	MQ2 CH4 PPMs	146.61
+384.1	Solid moisture EC (% of max)	0.49
+385.4	Temperature	24.60
+386.0	Humidity	83.00
+387.3	MQ2 CH4 PPMs	146.61
+388.0	Solid moisture EC (% of max)	0.49
+389.2	Temperature	24.60
+389.9	Humidity	83.00
+391.2	MQ2 CH4 PPMs	189.01
+391.8	Solid moisture EC (% of max)	0.39
+393.1	Temperature	24.60
+393.8	Humidity	82.90
+395.2	MQ2 CH4 PPMs	146.61
+395.9	Solid moisture EC (% of max)	0.39
+397.2	Temperature	24.60
+397.8	Humidity	83.00
+399.1	MQ2 CH4 PPMs	146.61
+399.8	Solid moisture EC (% of max)	0.39
+401.1	Temperature	24.60
+401.7	Humidity	83.00
+403.0	MQ2 CH4 PPMs	146.61
+403.7	Solid moisture EC (% of max)	0.49
+405.0	Temperature	24.60
+405.6	Humidity	83.00
+406.9	MQ2 CH4 PPMs	146.61
+407.6	Solid moisture EC (% of max)	0.49
+408.9	Temperature	24.70
+409.5	Humidity	83.10
+410.8	MQ2 CH4 PPMs	146.61
+411.5	Solid moisture EC (% of max)	0.39
+412.8	Temperature	24.60
+413.5	Humidity	83.00
+414.8	MQ2 CH4 PPMs	146.61
+415.4	Solid moisture EC (% of max)	0.49
+416.7	Temperature	24.60
+417.4	Humidity	83.00
+418.7	MQ2 CH4 PPMs	146.61
+419.4	Solid moisture EC (% of max)	0.39
+420.7	Temperature	24.60
+421.3	Humidity	83.00
+422.6	MQ2 CH4 PPMs	189.01
+423.3	Solid moisture EC (% of max)	0.39
+424.6	Temperature	24.60
+425.2	Humidity	83.00
+426.5	MQ2 CH4 PPMs	146.61
+427.2	Solid moisture EC (% of max)	0.39
+428.5	Temperature	24.60
+429.2	Humidity	83.00
+430.5	MQ2 CH4 PPMs	146.61
+431.1	Solid moisture EC (% of max)	0.49
+432.5	Temperature	24.60
+433.1	Humidity	83.00
+434.4	MQ2 CH4 PPMs	110.56
+435.1	Solid moisture EC (% of max)	0.49
+436.4	Temperature	24.60
+437.1	Humidity	83.00
+438.4	MQ2 CH4 PPMs	146.61
+439.0	Solid moisture EC (% of max)	0.49
+440.4	Temperature	24.60
+441.0	Humidity	83.00
+442.3	MQ2 CH4 PPMs	146.61
+443.0	Solid moisture EC (% of max)	0.49
+444.3	Temperature	24.60
+445.0	Humidity	83.00
+446.3	MQ2 CH4 PPMs	146.61
+446.9	Solid moisture EC (% of max)	0.49
+448.2	Temperature	24.70
+448.9	Humidity	83.10
+450.2	MQ2 CH4 PPMs	146.61
+450.9	Solid moisture EC (% of max)	0.39
+452.3	Temperature	24.60
+453.0	Humidity	83.00
+454.4	MQ2 CH4 PPMs	146.61
+455.0	Solid moisture EC (% of max)	0.39
+456.3	Temperature	24.60
+457.1	Humidity	83.00
