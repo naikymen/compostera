@@ -49,8 +49,9 @@ while True:
 
         # Si encuentra un dato en la línea, entonces lo grafica
         if value != -1:
-            print(thing, value)
+            print(ctime, thing, value, flush=True, sep='\t')
             plt.scatter(ctime, round(float(value), 1), color=things[thing])
 
-    plt.pause(0.1)
+    plt.pause(0.5)
+    #time.sleep(0.5)
 
