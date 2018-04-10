@@ -24,7 +24,7 @@ itime = time.time()
 
 # Para sacar los números del output, depende del formato seteado en el script del arduino.
 def findThing(query, target):
-    if target.find(query) != -1:
+    if (target.find(query) != -1) and (target.find('Error') == -1):
         return target.split(sep=':')[1].split(sep=' ')[1]
     else:
         return -1
@@ -49,9 +49,11 @@ while True:
 
         # Si encuentra un dato en la línea, entonces lo grafica
         if value != -1:
-            print(ctime, thing, value, flush=True, sep='\t')
-            plt.scatter(ctime, round(float(value), 1), color=things[thing])
-
-    plt.pause(0.5)
+            try:
+                float(value)  # si es un string, no lo puede formatear, y acá va a tirar error dentro del try
+                print(ctime, thing, value, flush=True, sep='\t')
+                plt.scatter(ctime, round(float(value), 1), color=things[thing])
+            except ValueError: pass
+    plt.pause(0.2)
     #time.sleep(0.5)
 
