@@ -65,7 +65,7 @@ void loop() {
   else {
     Serial.print("Humidity: ");
     Serial.print(event.relative_humidity);
-    Serial.println("%");
+    Serial.println(" %");
   }
   
   // Gas sensor
@@ -91,6 +91,7 @@ void loop() {
   // Ground mositure
   float output_value= analogRead(sensor_pin);
   Serial.print("Solid moisture EC (% of max): ");
-  Serial.println(100-((output_value/1024)*100));
+  Serial.print(100-((output_value/1024)*100));
+  Serial.println(" %");
   Serial.println("------------------------------------");
 }
